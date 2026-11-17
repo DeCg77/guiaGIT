@@ -1,0 +1,10 @@
+temas a estidiar:
+
+Git
+Bash
+Ing. Sofware
+JavaScript
+Pipelines
+no recuerdo el nombre
+
+
